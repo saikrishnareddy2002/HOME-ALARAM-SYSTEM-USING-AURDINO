@@ -1,4 +1,4 @@
-![image](https://github.com/saikrishnareddy2002/HOME-ALARAM-SYSTEM-USING-AURDINO/assets/127223195/5f22c01b-c2c3-444c-a4b0-d980760a984b)# HOME-ALARAM-SYSTEM-USING-AURDINO
+# HOME-ALARAM-SYSTEM-USING-AURDINO
 
 ABSTRACT: 
 Smart home Automation technology, lifetime is getting easier and simpler on all side in life. In the world, automatically systems are being chosen over the manual system. With the fast growth in the number of users of the internet through the past decade, the Internet has become a part and section of human life. In this study, a remotely controlled smart home automation system, for monitoring and controlling the temperature degree, humidity percentage, gas leakage, fires, and rain in the house, was developed. 

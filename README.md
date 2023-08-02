@@ -136,6 +136,7 @@ CIRCUIT DIAGRAM:
 ![image](https://github.com/saikrishnareddy2002/HOME-ALARAM-SYSTEM-USING-AURDINO/assets/127223195/f82fee97-782a-407f-9d99-ed3536aae388)
 
 2.	Peripheral circuit:
+
 ![image](https://github.com/saikrishnareddy2002/HOME-ALARAM-SYSTEM-USING-AURDINO/assets/127223195/0fb7437e-73d5-4bc1-85dd-4de03f73e1ea)
 
  RESULTS AND DISCUSSION: 
